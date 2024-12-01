@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="93">
+    <author>johnwayne1930</author>
+    <version>1.0.0.0</version>
+
+	<title>
+		<en>Wooden Garage Object Storage</en>
+		<de>Holz Garage Objekt Lager</de>
+	</title>	
+		
+	<description>
+<en><![CDATA[
+Wooden storage for bales and pallets.
+
+Price: $44,000
+Daily Upkeep: $44
+Capacity: 90 objects
+]]></en>
+<de><![CDATA[
+Holz Lager für Ballen und Paletten.
+
+Preis: €44.000
+Unterhaltskosten: €44
+Kapazität: 90 Objekte
+]]></de>
+	</description>
+
+    <iconFilename>icon_garageWoodRoofObjectStorage.dds</iconFilename>
+
+    <multiplayer supported="true" />
+
+    <storeItems>
+        <storeItem xmlFilename="garageWoodRoofObjectStorage.xml"/>
+    </storeItems>
+		
+	<l10n>
+		<text name="storeItem_garageWoodObjectStorage">
+			<en>Wooden Garage Object Storage</en>
+			<de>Holz Garage Objekt Lager</de>
+		</text>
+	</l10n>
+
+	</modDesc>
