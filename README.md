@@ -11,5 +11,5 @@ _%\Documents\My Games\FarmingSimulator2025\mods_ directory
 * activate the mod ingame
 
 #### Installation ModHub:
-* download [coming soon](#) from the ingame Modhub
+* download [Wooden Garage Object Storage (johnwayne1930)](https://www.farming-simulator.com/mod.php?mod_id=307433) from the ingame Modhub
 * activate the mod ingame
