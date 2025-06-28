@@ -5,6 +5,7 @@ Mod for Farming Simulator 25
 Wooden storage for bales and pallets.
 
 #### Installation manually:
+![GitHub all releases](https://img.shields.io/github/downloads/johnwayne1930/FS25_garageWoodRoofObjectStorage/total?label=Downloads&style=plastic)
 * download [Latest release](https://github.com/johnwayne1930/FS25_garageWoodRoofObjectStorage/releases/latest)
 * put the ZIP file "FS25_garageWoodRoofObjectStorage.zip" in the  
 _%\Documents\My Games\FarmingSimulator2025\mods_ directory
